@@ -1,0 +1,82 @@
+* {
+	margin:0;
+	padding:0;
+}
+body{ 
+   font-size:12px;
+   background-color: #0e0e0e;
+   font-family:Arial, Helvetica, sans-serif;
+   text-align: center; 
+   color: #ffffff;
+}
+
+.gornyobraz { 
+
+height: 170px;
+font-size: 50px;
+font-weight: bold;
+color: #F6F2F1;
+background-image: url('image/2.jpg');
+background-size: 250px 150px;
+background-repeat: no-repeat; 
+background-position: left center;
+}
+#podpis {
+padding: 60px 0 40px 150px;
+	
+}
+
+.menu{
+position: relative; 
+text-align:center;
+background-color:#1E1E1E;
+height: 45px;
+color: #ffffff;
+  
+}
+ul#menulist {
+	height:49px;
+	font-size:22px;
+	padding:10px 0 0 0;
+}
+
+#menulist li {
+	display: inline;
+	border-left:2px solid #505050;
+	height:49px;
+}
+#menulist #kolor {
+	color:#e3c13a;
+}
+#menulist a { 
+	padding: 0 5px;
+}
+
+#menulist a:link, #menulist a:visited {
+	color: #ffffff;
+	text-decoration: none;
+}
+
+#menulist a:hover {
+	color: #e3c13a;
+	text-decoration: none;
+}
+
+.box {
+margin: 2px 150px 12px 150px;
+padding: 20px 40px;
+}
+#podpis {
+padding: 40px 0 40px 150px;
+	
+}
+.tresc{
+
+}
+
+.zdjecie {
+	float:right;
+	margin:0 0 20px 10px;
+	
+}
+
